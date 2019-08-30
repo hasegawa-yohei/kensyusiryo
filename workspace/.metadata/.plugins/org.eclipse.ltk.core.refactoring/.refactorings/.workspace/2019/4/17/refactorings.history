@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース &apos;a&apos; を削除" deleteContents="false" description="リソース &apos;a&apos; を削除" element1="/a" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1556252031723"/>&#x0A;<refactoring comment="リソース名 &apos;web&apos; を &apos;web4&apos; に変更します" description="リソース &apos;web&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/web" name="web4" stamp="1556258249932" updateReferences="true"/>
+</session>

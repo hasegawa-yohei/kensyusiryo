@@ -1,0 +1,38 @@
+https://stackoverrun.com/ja/q/10460871
+
+
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>松屋牛めし</title>
+</head>
+<body bgcolor="yellow">
+<div style="position: relative;">
+</div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLs-OPkSdp2E6L0_lBH57yMySDYqTp-LorH3sY02K6ivRCKw-"width="430" height="311" ALIGN=left>
+<div style="position:absolute; top:250px; left:100px; width:800px;">
+<font size="5" color="white">好きな牛めしを見ましょう！</font>
+</div>
+<center><table bgcolor="yellow">
+<tr><th>商品の名前</th><th>写真</th><th>商品の価格</th>
+</tr>
+<tr>
+<td><a href="http://localhost:8080/matsuya/beefone"><font color="red">牛めし　あたま大盛</font></a></td><td><img src="https://www.matsuyafoods.co.jp/menu/assets_c/2018/05/gyu_atama_180515-thumb-160xauto-4695.jpg" width="200" height="160"><br><br></td>
+<td><font color="red">390円</font></td>
+</tr>
+<tr>
+<td><a href="http://localhost:8080/matsuya/beeftwo"><font color="red">旨辛チーズポテト牛めし</font></a></td><td><img src="https://www.matsuyafoods.co.jp/menu/assets_c/2018/05/gyu_umakara_cheepote_180515-thumb-160xauto-4678.jpg" width="200" height="160"><br><br></td>
+<td><font color="red">390円</font></td>
+</tr>
+<tr>
+<td><a href="http://localhost:8080/matsuya/beefthree"><font color="red">おろしポン酢牛めし</font></a></td><td><img src="https://www.matsuyafoods.co.jp/menu/assets_c/2016/08/gyu_oroshi_160823-thumb-160xauto-1514.jpg" width="200" height="160"><br><br></td>
+<td><font color="red">380円</font></td>
+</table>
+</center>
+</body>
+</html>

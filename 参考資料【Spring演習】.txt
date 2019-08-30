@@ -1,0 +1,26 @@
+作業する前にすること！
+
+①基本設計書もどきを作成する。
+※紙ベースでOK
+⇒画面遷移図・・・ログイン画面からログアウト画面までのフローを図にする
+⇒画面定義書・・・各画面のレイアウトや構成もろもろ
+②詳細設計書もどきを作成する。
+※神ベースでOK
+⇒画面定義書・・・その画面で使う変数やAPI、遷移先、DBなど
+⇒構成書・・・今回作るプロジェクトの内訳
+		例）
+		　jp_co
+		　	⇒good_works.
+		　		⇒lessonspringmvc
+		　			⇒controller
+		　				⇒Logincontroller.java
+		　			⇒aop
+		　				⇒certificate~.java
+		　	
+		　
+		　		⇒src
+		　			⇒view
+		　				⇒login.jsp
+		　				
+		　				
+③

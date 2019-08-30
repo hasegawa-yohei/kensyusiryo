@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2254090954.index
+\ecsite\src
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3217488717.index
+\ECsite\src
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3444577869.index
+\web\src
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1173007322.index
+\web\src
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3583261488.index
+\web\src
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1110809338.index
+\third\src
+C:\Users\Education\Desktop\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\787582939.index
+\a\src

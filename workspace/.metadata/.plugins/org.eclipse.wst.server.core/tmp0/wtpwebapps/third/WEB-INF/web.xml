@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>third</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+
+  <servlet>
+  		<servlet-name>session1</servlet-name>
+  		<servlet-class>web.Session1Servlet</servlet-class>
+  	</servlet>
+
+  	<servlet-mapping>
+  		<servlet-name>session1</servlet-name>
+  		<url-pattern>/session1</url-pattern>
+  	</servlet-mapping>
+
+  	<servlet>
+  		<servlet-name>session2</servlet-name>
+  		<servlet-class>web.Session2Servlet</servlet-class>
+  	</servlet>
+
+  	<servlet-mapping>
+  		<servlet-name>session2</servlet-name>
+  		<url-pattern>/session2</url-pattern>
+  	</servlet-mapping>
+
+  	<servlet>
+  		<servlet-name>session3</servlet-name>
+  		<servlet-class>web.Session3Servlet</servlet-class>
+  	</servlet>
+
+  	<servlet-mapping>
+  		<servlet-name>session3</servlet-name>
+  		<url-pattern>/session3</url-pattern>
+  	</servlet-mapping>
+
+    <servlet>
+  		<servlet-name>sj1</servlet-name>
+  		<servlet-class>web.SetAttributeServlet</servlet-class>
+  	</servlet>
+
+  	<servlet-mapping>
+  		<servlet-name>sj1</servlet-name>
+  		<url-pattern>/sj1</url-pattern>
+  	</servlet-mapping>
+
+    <servlet>
+  		<servlet-name>useBean</servlet-name>
+  		<servlet-class>web.UseBeanServlet</servlet-class>
+  	</servlet>
+
+  	<servlet-mapping>
+  		<servlet-name>useBean</servlet-name>
+  		<url-pattern>/useBean</url-pattern>
+  	</servlet-mapping>
+
+<servlet>
+  		<servlet-name>uranai</servlet-name>
+  		<servlet-class>web.FortuneServlet</servlet-class>
+  	</servlet>
+
+  	<servlet-mapping>
+  		<servlet-name>uranai</servlet-name>
+  		<url-pattern>/uranai</url-pattern>
+  	</servlet-mapping>
+
+
+</web-app>

@@ -1,0 +1,7 @@
+https://qiita.com/neriai/items/549617569b1b719eb84d
+
+
+※JDBCの接続設定
+root-context.xmlを開き、内の最終行に追加してください。
+
+↑の部分は不要
